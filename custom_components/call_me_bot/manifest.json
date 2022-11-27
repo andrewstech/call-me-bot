@@ -1,0 +1,7 @@
+{
+  "domain": "callmebot",
+  "name": "Callmebot",
+  "documentation": "https://www.callmebot.com/",
+  "codeowners": [],
+  "iot_class": "cloud_push"
+}
